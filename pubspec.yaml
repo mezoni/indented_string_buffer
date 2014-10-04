@@ -1,5 +1,5 @@
 name: indented_string_buffer
-version: 0.0.1
+version: 0.0.2
 author: Andrew Mezoni <andrew.mezoni@gmail.com>
 description: The implementation of StringBuffer that can indent new lines.
 homepage: https://github.com/mezoni/indented_string_buffer

@@ -1,9 +1,3 @@
-#indented_string_buffer
-==========
-
-The implementation of StringBuffer that can indent new lines.
-
-```dart
 import "package:indented_string_buffer/indented_string_buffer.dart";
 
 void main() {
@@ -19,15 +13,3 @@ void main() {
   sb.writeln("}");
   print(sb);
 }
-
-```
-
-Output:
-
-```
-if (a) {
-  foo();
-} else {
-  // Hi!
-}
-```
